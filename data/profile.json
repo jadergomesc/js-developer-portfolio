@@ -69,12 +69,17 @@
   "portfolio": [
     {
       "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "url": "https://github.com/jadergomesc/js-developer-pokedex",
       "github": true
     },
     {
       "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "url": "https://github.com/jadergomesc/js-developer-portfolio",
+      "github": true
+    },
+      {
+      "name": "Aplicativo de Cardápio Digital e Gerenciamento de Pedidos",
+      "url": "https://github.com/jadergomesc/CadapioDIgital_DaisePizzas",
       "github": true
     }
   ],
