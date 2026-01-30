@@ -50,11 +50,13 @@
   "education":[
     {
       "institution": "UNIFACS",
+      "curso": "Logística",
       "period": "2017 - 2019",
       "description": "Concluído"
     },
      {
       "institution": "ESTACIO",
+      "curso": "Engenhariad de Software",
       "period": "2021 - 2026",
       "description": "Cursando"
     }
